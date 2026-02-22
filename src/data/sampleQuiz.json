@@ -1,0 +1,59 @@
+[
+  {
+    "id": "001",
+    "subject": "Physics",
+    "chapter": "Electrostatics",
+    "topic": "Coulomb's Law",
+    "difficulty": "Medium",
+    "question": "Two charges +q and -q are separated by distance d. What happens to force when distance is doubled?",
+    "image": "assets/images/q1.svg",
+    "options": [
+      "Force becomes 4 times",
+      "Force becomes 1/4th",
+      "Force remains same",
+      "Force becomes 1/2"
+    ],
+    "answer": "B",
+    "year": 2026,
+    "notesLink": "https://example.com/electrostatics-notes",
+    "videoLink": "https://example.com/electrostatics-video"
+  },
+  {
+    "id": "002",
+    "subject": "Chemistry",
+    "chapter": "Atomic Structure",
+    "topic": "Bohr Model",
+    "difficulty": "Easy",
+    "question": "Which quantum number decides shell?",
+    "image": "assets/images/q2.svg",
+    "options": [
+      "Azimuthal",
+      "Magnetic",
+      "Principal",
+      "Spin"
+    ],
+    "answer": "C",
+    "year": 2025,
+    "notesLink": "https://example.com/bohr-notes",
+    "videoLink": "https://example.com/bohr-video"
+  },
+  {
+    "id": "003",
+    "subject": "Biology",
+    "chapter": "Human Physiology",
+    "topic": "Nephron",
+    "difficulty": "Hard",
+    "question": "Which part of nephron is primarily responsible for selective reabsorption?",
+    "image": "assets/images/q3.svg",
+    "options": [
+      "Bowman's capsule",
+      "PCT",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "answer": "B",
+    "year": 2024,
+    "notesLink": "https://example.com/nephron-notes",
+    "videoLink": "https://example.com/nephron-video"
+  }
+]
