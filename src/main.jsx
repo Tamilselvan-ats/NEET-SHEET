@@ -4,6 +4,8 @@ import { BrowserRouter } from 'react-router-dom';
 import App from './App';
 import { AppProvider } from './context/AppContext';
 import './index.css';
+import { QuizProvider } from './context/QuizContext';
+import './styles/global.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -13,4 +15,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       </AppProvider>
     </BrowserRouter>
   </React.StrictMode>
+      <QuizProvider>
+        <App />
+      </QuizProvider>
+    </BrowserRouter>
+  </React.StrictMode>,
 );

@@ -5,6 +5,7 @@ const base = process.env.VITE_BASE_PATH || '/';
 
 export default defineConfig({
   base,
+export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',
