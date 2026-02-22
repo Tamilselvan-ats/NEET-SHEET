@@ -1,0 +1,19 @@
+[
+  {
+    "id": "001",
+    "subject": "Physics",
+    "chapter": "Electrostatics",
+    "topic": "Coulomb's Law",
+    "difficulty": "Medium",
+    "question": "Extracted from sample.pdf: Sample question",
+    "image": "assets/images/q1.svg",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "B",
+    "year": 2026
+  }
+]
